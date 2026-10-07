@@ -1,0 +1,12 @@
+# Сохранять исходные байты рабочей книги и экспортов VBA.
+*.xlsm binary
+*.bas -text
+*.cls -text
+*.frm -text
+*.frx binary
+
+# Документация и настройки используют переводы строк LF.
+*.md text eol=lf
+LICENSE text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

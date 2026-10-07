@@ -1,0 +1,20 @@
+# Временные файлы и блокировки Microsoft Excel / VBA
+~$*
+*.tmp
+*.temp
+*.xlk
+*.bak
+*.swp
+*.swo
+*.bas~
+*.cls~
+*.frm~
+
+# Служебные файлы Windows и других ОС
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
