@@ -26,7 +26,7 @@ Function OPTIMAL_BOBBIN(TargetL_mH As Variant, WireD_Cu As Variant, AmpPower As 
     
     Dim wsData As Worksheet
     On Error Resume Next
-    Set wsData = ThisWorkbook.Sheets("DATA_Провода,Каркасы")
+    Set wsData = Лист8
     On Error GoTo ErrorHandler
     If wsData Is Nothing Then
         OPTIMAL_BOBBIN = "ERR: Нет листа Data"

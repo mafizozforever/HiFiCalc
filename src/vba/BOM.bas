@@ -1,4 +1,4 @@
-Attribute VB_Name = "BOM"
+Attribute VB_Name = "bom"
 Option Explicit
 
 ' Builds the eight-column spill range used by "Ведомомость закупки".
